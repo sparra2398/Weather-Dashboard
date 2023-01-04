@@ -1,0 +1,6 @@
+/*moves search button underneath search bar*/
+.form-label, 
+.form-input {
+    display: block;
+}
+
